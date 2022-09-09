@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Homemade CLI tic-tac-toe written in Python
+CLI Tic-Tac-Toe written in Python by me
